@@ -1,0 +1,12 @@
+Interactable objects can be one of the following:
+Pickup - An object that you pickup
+Info - An item that delivers a short message. Example "The sign reads: dead cats this way -->"
+Talks - an object/NPC that has dialogue that spans multiple screen.
+
+An interactable object must have the following:
+
+Interaction Script
+- use one of the tickboxes to select the type 
+
+Outline Script
+- Set the Outline Witdh to 0 (otherwise strange things will occur)
